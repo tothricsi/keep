@@ -1,0 +1,30 @@
+body{
+	color: rgb(0,255,0);
+	background-color: rgb(242,48,248);
+	font-family: Times New Roman, serif;
+	margin:30px auto;
+	width:85%;
+	font-size:20pt;
+	text-align: justify;
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;}
+	
+#felkover{
+	font-weight:bold;}
+
+.nincs{
+	font-weight:normal;
+	list-style-type:none;
+}
+#kicsi{
+	width: 410px;
+	float: center;
+}
+#erno{
+	width: 400px;
+	float: right;
+}
